@@ -1,0 +1,13 @@
+Model Outputs validated by 10-fold validation and rmse
+
+1. DecisionTressRegressor
+    Mean :  4.959680486795582
+    Standard Deviation :  1.6652804877994183
+
+2. Linear Regression
+    Mean :  4.765007234836718
+    Standard Deviation :  1.0280564277934885
+    
+3. Random Forest Regressor
+    Mean :  3.380636373912151
+    Standard Deviation :  1.0413507268665583
