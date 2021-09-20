@@ -6,8 +6,20 @@ Model Outputs validated by 10-fold validation and rmse
 
 2. Linear Regression
     Mean :  4.765007234836718
-    Standard Deviation :  1.0280564277934885
+    Standard Deviation :  1.0280564277934885S
     
 3. Random Forest Regressor
     Mean :  3.380636373912151
     Standard Deviation :  1.0413507268665583
+
+4. Support Vector Machines (SVM)
+    Mean :  5.592753471144268
+    Standard Deviation :  1.2072448677282897
+
+5. Stochastic Gradient Descent
+    Mean :  4.786396885061714
+    Standard Deviation :  1.0586498089490823
+
+6. K-NN
+    Mean :  4.773269628749968
+    Standard Deviation :  1.080684066345544
